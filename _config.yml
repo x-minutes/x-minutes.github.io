@@ -1,2 +1,3 @@
 theme: jekyll-theme-hacker
-repository_url: http://x-minutes.com/
+github:
+    repository_url: http://x-minutes.com/
