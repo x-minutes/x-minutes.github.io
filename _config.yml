@@ -1,4 +1,5 @@
-
+theme: jekyll-theme-hacker
 github:
   repository_url: http://x-minutes.com
-theme: jekyll-theme-hacker
+name: luaphacim's site
+title: null
